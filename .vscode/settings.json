@@ -1,0 +1,26 @@
+{
+  "files.exclude": {
+    ".idea": true,
+    ".dart_tool": true,
+    ".vscode": true,
+    "android": true,
+    ".metadata": true,
+    "ios": true,
+    ".gitignore": true,
+    "analysis_options.yaml": true,
+    "web": true,
+    "foodify.iml": true,
+    "pubspec.lock": true,
+    ".flutter-plugins-dependencies": true,
+    ".flutter-plugins": true,
+    "auth\\.metadata": true,
+    "auth\\analysis_options.yaml": true,
+    "auth\\auth.iml": true,
+    "auth\\.dart_tool": true,
+    "auth\\.idea": true,
+    "auth\\CHANGELOG.md": true,
+    "auth\\.gitignore": true,
+    "auth\\pubspec.lock": true,
+    "auth\\LICENSE": true
+  }
+}
